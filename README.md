@@ -1,2 +1,2 @@
 # expressionTree
-Java code for expression tree
+The provided Java code is a simple program that takes user input for a word and two letters from that word. It then performs various operations based on these inputs, such as finding the positions of the entered letters in the word, checking their order, calculating the sum of their positions, determining the length of the word, and outputting a character based on certain conditions.
